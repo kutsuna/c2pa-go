@@ -2,7 +2,7 @@
 This library implements c2pa-c wrapper for go.
 
 > [!NOTE]
-> This library is for personal reseaerch at this momoment.
+> This library is for personal research at this momoment.
 >
 > Supported functions are limited.
 
